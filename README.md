@@ -137,9 +137,28 @@ Strong password requirement enforced at login
 Protect against brute-force password attacks.
 
 
-⚙️ Configuration Path
+⚙️ Configuration:
 
 
+![IPCONFIG](screenshots/LOCKOUT/ACCOUNT_LOCKOUT_CRITERIA.png)
+
+
+![IPCONFIG](screenshots/PASSWORD/NET_ACCOUNTS.png)
+
+
+![IPCONFIG](screenshots/LOCKOUT/LOCKOUT_PC.png)
+
+
+
+![IPCONFIG](screenshots/LOCKOUT/UNLOCKED_ACCOUNT.png)
+
+
+
+UNLOCKED_ACCOUNT
+
+LOCKOUT_PC
+
+ACCOUNT_LOCKOUT_CRITERIA
 Computer Configuration →
 
 
