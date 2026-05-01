@@ -238,11 +238,12 @@ Block ping requests to improve network security and reduce reconnaissance attack
 ![IPCONFIG](screenshots/FIREWALL/FIREWALL_PING_BLOCKED.png)
 
 
+![IPCONFIG](screenshots/FIREWALL/FIREWALL_PING_RESTORED.png)
 
 
 
 
-
+FIREWALL_PING_RESTORED
 
 FIREWALL_INBOUND_RULES
 
