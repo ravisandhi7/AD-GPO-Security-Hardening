@@ -154,12 +154,7 @@ Protect against brute-force password attacks.
 
 
 
-UNLOCKED_ACCOUNT
 
-LOCKOUT_PC
-
-ACCOUNT_LOCKOUT_CRITERIA
-Computer Configuration →
 
 
 Policies →
@@ -207,9 +202,55 @@ Admin can unlock account via Active Directory Users and Computers
 Block ping requests to improve network security and reduce reconnaissance attacks.
 
 
-⚙️ Configuration Path
+⚙️ Configuration:
 
 
+![IPCONFIG](screenshots/FIREWALL/FIREWALL_GPO_ENABLED.png)
+
+
+![IPCONFIG](screenshots/FIREWALL/FIREWALL_GPO_LISTED.png)
+
+
+![IPCONFIG](screenshots/FIREWALL/FIREWALL_GPO_PATH.png)
+
+
+![IPCONFIG](screenshots/FIREWALL/FIREWALL_INBOUND_RULE_TYPE.png)
+
+
+![IPCONFIG](screenshots/FIREWALL/FIREWALL_INBOUND_PROGRAM.png)
+
+
+![IPCONFIG](screenshots/FIREWALL/FIREWALL_INBOUND_PROTOCOL.png)
+
+
+![IPCONFIG](screenshots/FIREWALL/FIREWALL_INBOUND_ACTION.png)
+
+
+![IPCONFIG](screenshots/FIREWALL/FIREWALL_INBOUND_PROFILE.png)
+
+
+![IPCONFIG](screenshots/FIREWALL/FIREWALL_INBOUND_NAME.png)
+
+
+![IPCONFIG](screenshots/FIREWALL/FIREWALL_GPO_LISTED.png)
+
+
+![IPCONFIG](screenshots/FIREWALL/FIREWALL_PING_BLOCKED.png)
+
+
+![IPCONFIG](screenshots/FIREWALL/FIREWALL_INBOUND_RULES.png)
+
+
+
+
+
+
+FIREWALL_INBOUND_RULES
+
+
+
+
+FIREWALL_GPO_ENABLED
 Computer Configuration →
 
 
