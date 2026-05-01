@@ -232,13 +232,12 @@ Block ping requests to improve network security and reduce reconnaissance attack
 ![IPCONFIG](screenshots/FIREWALL/FIREWALL_INBOUND_NAME.png)
 
 
-![IPCONFIG](screenshots/FIREWALL/FIREWALL_GPO_LISTED.png)
+![IPCONFIG](screenshots/FIREWALL/FIREWALL_INBOUND_RULES.png)
 
 
 ![IPCONFIG](screenshots/FIREWALL/FIREWALL_PING_BLOCKED.png)
 
 
-![IPCONFIG](screenshots/FIREWALL/FIREWALL_INBOUND_RULES.png)
 
 
 
