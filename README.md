@@ -67,45 +67,6 @@ Prevent unauthorized USB storage devices from being used on domain-joined system
 ![IPCONFIG](screenshots/USB/USB_ACCESS_DENIED.png)
 
 
-USB_ACCESS_DENIED.png
-DISABLE_USB_STORAGE_ALL_REMOVABLE_DEVICES.png
-
-Configured via GPO:
-
-
-Computer Configuration →
-
-
-Policies →
-
-
-Administrative Templates →
-
-
-System →
-
-
-Removable Storage Access
-
-
-🔧 Settings Applied
-
-
-All Removable Storage Classes: Deny All Access = Enabled
-
-
-Removable Disks: Deny Read/Write Access = Enabled
-
-
-🧪 Verification
-
-
-USB devices are not accessible on client machines
-
-
-Device shows access denied when plugged in
-
-
 2️⃣ Password Policy Enforcement
 
 
@@ -118,6 +79,13 @@ Enforce strong password standards across all domain users.
 ⚙️ Configuration Path
 
 
+![IPCONFIG](screenshots/PASSWORD/PASSWORD_CRITERIA.png)
+
+
+![IPCONFIG](screenshots/PASSWORD/NET_ACCOUNTS.png)
+
+
+NET_ACCOUNTS
 Computer Configuration →
 
 
