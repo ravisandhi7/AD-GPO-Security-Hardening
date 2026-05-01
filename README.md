@@ -46,6 +46,9 @@ Prevent unauthorized USB storage devices from being used on domain-joined system
 ⚙️ Configuration
 
 
+![IPCONFIG](screenshots/USB/USB_ACCESSIBLE.png)
+
+
 Configured via GPO:
 
 
