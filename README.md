@@ -49,6 +49,24 @@ Prevent unauthorized USB storage devices from being used on domain-joined system
 ![IPCONFIG](screenshots/USB/USB_ACCESSIBLE.png)
 
 
+![IPCONFIG](screenshots/USB/DISABLE_USB_STORAGE.png)
+
+
+![IPCONFIG](screenshots/USB/DISABLE_USB_STORAGE_ALL_REMOVABLE_DEVICES.png)
+
+
+![IPCONFIG](screenshots/USB/DISABLE_USB_STORAGE_PATH.png)
+
+
+![IPCONFIG](screenshots/USB/DISABLE_USB_STORAGE_PATH_CONTD.png)
+
+
+![IPCONFIG](screenshots/USB/USB_ACCESS_DENIED.png)
+
+
+USB_ACCESS_DENIED.png
+DISABLE_USB_STORAGE_ALL_REMOVABLE_DEVICES.png
+
 Configured via GPO:
 
 
