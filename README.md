@@ -61,6 +61,9 @@ Prevent unauthorized USB storage devices from being used on domain-joined system
 ![IPCONFIG](screenshots/USB/DISABLE_USB_STORAGE_PATH_CONTD.png)
 
 
+![IPCONFIG](screenshots/USB/DISABLE_USB_STORAGE_ALL_REMOVABLE_DEVICES_ENABLED.png)
+
+
 ![IPCONFIG](screenshots/USB/USB_ACCESS_DENIED.png)
 
 
