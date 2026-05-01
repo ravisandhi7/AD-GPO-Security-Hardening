@@ -67,6 +67,10 @@ Prevent unauthorized USB storage devices from being used on domain-joined system
 ![IPCONFIG](screenshots/USB/USB_ACCESS_DENIED.png)
 
 
+![IPCONFIG](screenshots/FIREWALL/FIREWALL_GPO_LISTED.png)
+
+
+
 2️⃣ Password Policy Enforcement
 
 
